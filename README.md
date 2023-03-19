@@ -57,7 +57,7 @@
 > 4. Dodać możliwość odczytu danych z już istniejącego pliku JSON.
 
 #### Uruchomienie:
-> Przetestowane na Windows (venv). Wymagana jest instalacja bibliotek PIP i CustomTkinter.
+> Przetestowane na Windows (venv). Wymagana jest instalacja bibliotek PIL i CustomTkinter.
 
 ![Light Mode](screenshots/LightMode.png)  
 
