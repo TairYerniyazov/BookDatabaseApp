@@ -28,7 +28,7 @@ def ask_to_enter_input(option):
     unlock_and_clear_text_box(info_widget)
     match option:
         case "find":
-            info_widget.insert("0.0", "Proszę wprowadzić nazwę książki,\n którą należy znaleść", "centerAlignment")
+            info_widget.insert("0.0", "Proszę wprowadzić nazwę książki,\n którą należy znaleźć", "centerAlignment")
         case "add_name":
             info_widget.insert("0.0", "Proszę wprowadzić nazwę", "centerAlignment")
         case "add_author":
