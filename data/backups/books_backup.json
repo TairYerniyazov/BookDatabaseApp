@@ -1,0 +1,32 @@
+[
+  {
+    "Nazwa": "The Sea-Wolf",
+    "Autor": "Jack London",
+    "Rok wydania": 2020,
+    "ISBN": "9781660063192"
+  },
+  {
+    "Nazwa": "Zab\u00f3jstwo Rogera Ackroyda",
+    "Autor": "Agatha Christie",
+    "Rok wydania": 2022,
+    "ISBN": "9788327163127"
+  },
+  {
+    "Nazwa": "The Picture of Dorian Gray",
+    "Autor": "Wilde, Oscar",
+    "Rok wydania": 2017,
+    "ISBN": "9781548296742"
+  },
+  {
+    "Nazwa": "Bieguni",
+    "Autor": "Olga Tokarczuk",
+    "Rok wydania": 2018,
+    "ISBN": "9788308055946"
+  },
+  {
+    "Nazwa": "Czu\u0142y narrator",
+    "Autor": "Olga Tokarczuk",
+    "Rok wydania": 2020,
+    "ISBN": "9788308073056"
+  }
+]
