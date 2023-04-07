@@ -1,7 +1,6 @@
 # Baza danych książek
 > Tair Yerniyazov <br>
 > Kraków, styczeń 2023 r. <br>
-> Projekt: kurs z języka Python
 
 ## Opis
 #### Wersja własna (JSON/Python)
