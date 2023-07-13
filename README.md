@@ -7,5 +7,5 @@
 2. SQLite & Python
 
 ## Sneak peek
-> When Dark Mode is chosen:
+> Dark Mode applied:
 <img src="https://github.com/TairYerniyazov/BookDatabaseApp/blob/main/screenshots/DarkMode.png" width="60%">
