@@ -8,3 +8,4 @@
 
 ## Sneak peek (when set to Dark Mode )
 ![Dark Mode](screenshots/DarkMode.png)  
+<img src="https://github.com/TairYerniyazov/BookDatabaseApp/blob/main/screenshots/DarkMode.png" width="80%">
