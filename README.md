@@ -1,5 +1,5 @@
 # Book Database App
-> Simple app storing the list of books on your local device. <br>
+Simple app storing the list of books on your local device.
 
 ## Versions
 > There are two different implementations:
