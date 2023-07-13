@@ -2,7 +2,9 @@
 > Simple app storing the list of favourite books on your local device. <br>
 
 ## Versions
-#### JSON & Python
-#### SQLite & Python
+> There are two different implementations:
+1. JSON & Python
+2. SQLite & Python
 
-![Light Mode](screenshots/DarkMode.png)  
+## Sneak peek (when set to Dark Mode )
+![Dark Mode](screenshots/DarkMode.png)  
